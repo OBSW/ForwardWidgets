@@ -1,7 +1,7 @@
 {
   "title": "OBSC Widgets",
   "description": "自用模块合集",
-  "icon": "https://github.com/TopBlack-J/ForwardWidgets/blob/main/icon.png",
+  "icon": "https://github.com/huangxd-/ForwardWidgets/blob/main/icon.png",
   "widgets": [
   {
       "id": "forward.combined.media.lists",
