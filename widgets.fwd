@@ -22,8 +22,8 @@
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
     },
     {
-      "id": "imdb_discovery_final_v2",
-      "title": "IMDb 分类资源 v2",
+      "id": "imdb_discovery_final",
+      "title": "IMDb 分类资源",
       "description": "聚合 IMDb 热门影视资源",
       "requiredVersion": "0.0.1",
       "version": "2.0.0",
