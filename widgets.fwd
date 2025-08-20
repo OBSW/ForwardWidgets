@@ -1,7 +1,7 @@
 {
   "title": "𝑶𝑩𝑺𝑪'𝒔 𝑾𝒊𝒅𝒈𝒆𝒕𝒔",
   "description": "自用模块合集",
-  "icon": "https://github.com/OBSW/ForwardWidgets/raw/main/icon3.png",
+  "icon": "https://github.com/OBSW/ForwardWidgets/raw/main/icon/icon4.png",
   "widgets": [
     {
       "id": "forward.combined.media.lists",
