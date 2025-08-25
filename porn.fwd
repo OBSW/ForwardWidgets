@@ -49,13 +49,22 @@
       "url": "https://raw.githubusercontent.com/OBSW/ForwardWidgets/refs/heads/main/js/javrate.js"
     },
     {
-      "id": "unknow.baranwang.xvideos",
-      "title": "XVideos",
-      "description": "Xvideos",
-      "requiredVersion": "0.0.1",
+      "id": "MissAV",
+      "title": "MissAVs",
+      "description": "获取MissAV推荐",
+      "requiredVersion": "1.0.0",
       "version": "0.9.4",
-      "author": "匿名",
+      "author": "Butterfly",
       "url": "https://github.com/baranwang/forward-widget/releases/latest/download/xvideos.js"
+   },
+   {
+      "id": "jable",
+      "title": "Jable",
+      "description": "获取Jable全站视频",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.9",
+      "author": "nibiru",
+      "url": "https://raw.githubusercontent.com/OBSW/ForwardWidgets/refs/heads/main/js/jable.js"
     }
   ]
 }
