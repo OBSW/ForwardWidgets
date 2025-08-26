@@ -7,7 +7,7 @@
       "id": "jable",
       "title": "Jable",
       "description": "获取Jable全站视频",
-      "requiredVersion": "0.0.1",
+      "requiredVersion": "0.0.2",
       "version": "1.0.9",
       "author": "nibiru",
       "url": "https://raw.githubusercontent.com/OBSW/ForwardWidgets/refs/heads/main/js/jable.js"
@@ -34,7 +34,7 @@
       "id": "ti.bemarkt.javday",
       "title": "JAVDay",
       "description": "获取 JAVDay 推荐",
-      "requiredVersion": "0.0.1",
+      "requiredVersion": "0.0.2",
       "version": "1.1.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/OBSW/ForwardWidgets/refs/heads/main/js/javday.js"
@@ -43,7 +43,7 @@
       "id": "ti.bemarkt.javrate",
       "title": "JAVRate",
       "description": "获取 JAVRate 推荐",
-      "requiredVersion": "0.0.1",
+      "requiredVersion": "0.0.2",
       "version": "2.1.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/OBSW/ForwardWidgets/refs/heads/main/js/javrate.js"
@@ -52,7 +52,7 @@
       "id": "MissAV",
       "title": "MissAV",
       "description": "获取MissAV推荐",
-      "requiredVersion": "0.0.1",
+      "requiredVersion": "0.0.2",
       "version": "1.0.0",
       "author": "Butterfly",
       "url": "https://widgets-xd.vercel.app/Widgets/MissAV.js"
