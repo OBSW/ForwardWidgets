@@ -8,7 +8,7 @@
       "title": "影视榜单",
       "description": "影视动画榜单",
       "requiredVersion": "0.0.2",
-      "version": "1.3.9",
+      "version": "1.5.0",
       "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
       "url": "https://for-ward.vercel.app/Widgets/combined.js"
     },
@@ -23,10 +23,10 @@
     },
     {
       "id": "forward.combined.media.lists.en",
-      "title": "Movie & TV Lists",
-      "description": "Movie & TV Lists",
+      "title": "Cinema and TV Lists",
+      "description": "Lists of movies, series, and anime",
       "requiredVersion": "0.0.2",
-      "version": "1.0.0",
+      "version": "1.5.0",
       "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
       "url": "https://for-ward.vercel.app/Widgets/Move_list_EN.js"
     },
