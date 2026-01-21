@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.2",
       "version": "1.5.0",
       "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
-      "url": "https://for-ward.vercel.app/Widgets/combined.js"
+      "url": "https://for-ward.vercel.app/Widgets/Move_list.js"
     },
     {
       "id": "hot_picks",
@@ -20,15 +20,6 @@
       "version": "1.1.8",
       "author": "两块",
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/HotPicks.js"
-    },
-    {
-      "id": "forward.combined.media.lists.en",
-      "title": "Cinema and TV Lists",
-      "description": "Lists of movies, series, and anime",
-      "requiredVersion": "0.0.2",
-      "version": "1.5.0",
-      "author": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂",
-      "url": "https://for-ward.vercel.app/Widgets/Move_list_EN.js"
     },
     {
       "id": "imdb_discovery_final",
