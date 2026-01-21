@@ -58,9 +58,9 @@
       "url": "https://for-ward.vercel.app/Widgets/MissAV.js"
    },
    {
-      "id": "Hanime1",
+      "id": "hanime1_me_style",
       "title": "Hanime1",
-      "description": "获取Hanimel动画",
+      "description": "获取Hanime1动画",
       "requiredVersion": "0.0.2",
       "version": "2.1.1",
       "author": "gr294949",
