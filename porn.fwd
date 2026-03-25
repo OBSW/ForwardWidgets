@@ -49,13 +49,13 @@
       "url": "https://raw.githubusercontent.com/OBSW/ForwardWidgets/refs/heads/main/js/javrate.js"
     },
     {
-      "id": "MissAV",
+      "id": "MissAV_ovo",
       "title": "MissAV",
       "description": "获取MissAV推荐",
       "requiredVersion": "0.0.2",
-      "version": "1.0.0",
-      "author": "Butterfly",
-      "url": "https://for-ward.vercel.app/Widgets/MissAV.js"
+      "version": "2.1.1",
+      "author": "MakkaPakka",
+      "url": "https://raw.githubusercontent.com/OBSW/ForwardWidgets/refs/heads/main/Porn/missavovo.js"
    },
    {
       "id": "hanime1_me_style",
