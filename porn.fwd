@@ -6,10 +6,10 @@
     {
       "id": "jable",
       "title": "Jable",
-      "description": "获取Jable全站视频",
+      "description": "修复声音&恢复大量分类",
       "requiredVersion": "0.0.2",
-      "version": "1.0.9",
-      "author": "nibiru",
+      "version": "1.3.0",
+      "author": "nibiru｜MakkaPakka｜蝴蝶",
       "url": "https://raw.githubusercontent.com/OBSW/ForwardWidgets/refs/heads/main/Porn/jable.js"
     },
     {
